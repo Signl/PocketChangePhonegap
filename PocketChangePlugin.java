@@ -1,3 +1,8 @@
+/**
+ * cordova PocketChange plugin
+ * Copyright (c) wenzhi xue 2012
+ *
+ */
 package com.pocketchange.phonegap;
 
 import org.apache.cordova.api.CallbackContext;
