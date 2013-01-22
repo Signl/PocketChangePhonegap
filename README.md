@@ -25,15 +25,3 @@ Open pocketchange store. For example:
     window.plugins.pocketchange.openShop();
  
 
-    
-### sendBroadcast ###
-Sends a custom intent passing optional extras
-
-    window.plugins.webintent.sendBroadcast({
-                action: 'com.dummybroadcast.action.triggerthing',
-                extras: {
-                    'option': true
-                }
-            }, function() {
-            }, function() {
-    });
